@@ -1,4 +1,4 @@
-# 
+# Automático Ollama plugins. Com fluxos de trabalho automatizados e UI personalizável — otimizado para máximo desempenho e eficiência.
 
 
 
